@@ -30,7 +30,7 @@ A full-stack MERN application that lets you save vocabulary words, auto-fetches 
 
 ```bash
 git clone <your-repo-url>
-cd vocab-builder
+cd lexiLoop
 ```
 
 ---
@@ -124,7 +124,7 @@ Vite's dev server proxies all `/api/*` requests to `http://localhost:5000` autom
 ### Project Structure
 
 ```
-vocab-builder/
+LexiLoop/
 ├── backend/
 │   ├── config/
 │   │   └── db.js                    # MongoDB connection
