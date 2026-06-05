@@ -30,7 +30,7 @@ A full-stack MERN application that lets you save vocabulary words, auto-fetches 
 
 ```bash
 git clone <your-repo-url>
-cd lexiLoop
+cd LexiLoop
 ```
 
 ---
